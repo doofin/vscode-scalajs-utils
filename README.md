@@ -1,6 +1,6 @@
 # VSCode Extension in Scala.js
 
-This is an update of [vscode-scalajs-hello](https://github.com/pme123/vscode-scalajs-hello) with Scala 3.3.3 and sbt.version=1.9.7.
+This is an example to use Scala js to write VSCode Extension, updated from [vscode-scalajs-hello](https://github.com/pme123/vscode-scalajs-hello) with Scala 3.3.3 and sbt.version=1.9.7.
 
 ## reference 
 
